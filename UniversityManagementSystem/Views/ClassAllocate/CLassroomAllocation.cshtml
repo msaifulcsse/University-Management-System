@@ -1,0 +1,183 @@
+﻿@using UniversityManagementSystem.Models
+@model ClassAllocation
+@{
+    Layout = null;
+    List<Department> departments = ViewBag.departments;
+    List<Room> rooms = ViewBag.rooms;
+    List<Course> courses = ViewBag.courses;
+    List<Day> days = ViewBag.days;
+    string msg = ViewBag.message;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>CLassroomAllocation</title>
+    <style>
+        label.error {
+            color: red;
+        }
+    </style>
+</head>
+<body>
+    <center>
+        <h1>8. Allocate CLassroom</h1>
+        <h3>
+            <a href="/Home/Index">Go To Home Page</a>
+        </h3><hr/><br/>
+
+            <form id="CLassroomAllocation" method="POST">
+                <table border="1">
+
+                    <tr>
+                        <th>Department</th>
+                        <td>
+                            <select name="DepartmentId" id="DepartmentId">
+                                <option value="">Select----</option>
+                                @foreach (var departmentlist in departments)
+                                {
+                                    <option value="@departmentlist.Id">@departmentlist.Name</option>
+                                }
+                            </select>
+                        </td>
+                    </tr>
+
+                    <tr>
+                        <th>Course</th>
+                        <td>
+                            <select name="CourseId" id="CourseId">
+                                <option value="">Select----</option>
+                                @foreach (var courseslist in courses)
+                                {
+                                    <option value="@courseslist.Id">@courseslist.Code</option>
+                                }
+                            </select>
+                        </td>
+                    </tr>
+
+                    <tr>
+                        <th>Room</th>
+                        <td>
+                            <select name="RoomId" id="RoomId">
+                                <option value="">Select------</option>
+                                @foreach (var roomslist in rooms)
+                                {
+                                    <option value="@roomslist.Id">@roomslist.RoomNo</option>
+                                }
+
+                            </select>
+                        </td>
+                    </tr>
+
+                    <tr>
+                        <th>Day</th>
+                        <td>
+                            <select name="DayId" id="DayId">
+                                <option value="">Select------</option>
+                                @foreach (var dayslist in days)
+                                {
+                                    <option value="@dayslist.Id">@dayslist.DayName</option>
+                                }
+
+                            </select>
+                        </td>
+                    </tr>
+
+                    <tr>
+                        <th>From</th>
+                        <td>
+                            <input type="text" name="FromTimeHour" placeholder="Hours"/>:<input type="text" name="FromTimeMinute" placeholder="Minutes" />
+                            <input type="radio" name="FromTimeFormat" value="AM" /> AM
+                            <input type="radio" name="FromTimeFormat" value="PM" />PM
+                        </td>
+                    </tr>
+
+                    <tr>
+                        <th>To</th>
+                        <td>
+                            <input type="text" name="ToTimeHour" placeholder="Hours"/>:<input type="text" name="ToTimeMinute" placeholder="Minutes"/>
+                            <input type="radio" name="ToTimeFormat" value="AM" /> AM
+                            <input type="radio" name="ToTimeFormat" value="PM" />PM
+                        </td>
+                    </tr>
+                    <tr>
+                        <th></th>
+                        <td><input type="submit" value="Allocate" /></td>
+                    </tr>
+                </table>
+
+                @msg
+             </form >
+    </center>
+    <script src="~/Scripts/jquery-1.10.2.min.js"></script>
+    <script src="~/Scripts/jquery.validate.min.js"></script>
+    <script>
+        $(document).ready(function () {
+
+            $("#DepartmentId").change(function () {
+
+                var deptId = $("#DepartmentId").val();
+
+                $("#CourseId").empty();
+                var json = { departmentId: deptId };
+                $.ajax({
+                    type: "POST",
+                    url: '@Url.Action("GetCourseByDepartment", "ClassAllocate")',
+                    contentType: "application/json; charset=utf-8",
+                    data: JSON.stringify(json),
+                    success: function (data) {
+                        //alert(data);
+                        $.each(data, function (key, value) {
+                            //alert(key);
+                            $("#CourseId").append('<option value=' + value.Id + '>' + value.Name + '</option>');
+
+                        });
+                    }
+                });
+            });
+        });
+        $("#CLassroomAllocation").validate({
+            rules: {
+                DepartmentId: "required",
+                CourseId: "required",
+                RoomId: "required",
+                DayId: "required",
+                FromTimeHour: {
+                    required: true,
+                    min: 1,
+                    max:12
+                },
+                FromTimeMinute: {
+                    required: true,
+                    min: 0,
+                    max: 59
+                },
+                FromTimeFormat: {
+                    required: true
+                },
+                ToTimeHour: {
+                    required: true,
+                    min: 1,
+                    max: 12
+                },
+                ToTimeMinute: {
+                    required: true,
+                    min: 0,
+                    max: 59
+                },
+                ToTimeFormat: {
+                    required: true
+                }
+            },
+            messages: {
+                DepartmentId: "Please Select a Department",
+                CourseId: "Please Select a Course",
+                RoomId: "Please Select a Room",
+                DayId: "Please Select a Day"
+            }
+        });
+    </script>
+</body>
+</html>

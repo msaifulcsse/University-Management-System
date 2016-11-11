@@ -1,0 +1,68 @@
+﻿
+@{
+    Layout = null;
+    string msg = ViewBag.message;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>SaveDepartment</title>
+    <style>
+        label.error {
+            color: red;
+        }
+    </style>
+</head>
+<body>
+    <center>
+        <h1>1. Save Department</h1>
+        <h3>
+            <a href="/Home/Index">Go To Home Page</a>
+        </h3><hr /><br />
+        <div>
+            <form id="saveDepartMent" method="POST">
+                <table>
+                    <tr>
+                        <th> Code:</th>
+                        <td><input id="" type="text" name="Code" /></td>
+                    </tr>
+                    <tr>
+                        <th>Name:</th>
+                        <td><input id="" type="text" name="Name" /></td>
+                    </tr>
+                    <tr>
+                        <th></th>
+                        <td><input type="submit" value="Save" /></td>
+                    </tr>
+                </table>
+                @msg
+            </form>
+        </div>
+    </center>
+    <script src="~/Scripts/jquery-1.10.2.min.js"></script>
+    <script src="~/Scripts/jquery.validate.min.js"></script>
+    <script>
+        $(document).ready(function () {
+            jQuery.validator.addMethod("noSpace", function (value, element) {
+                return value.indexOf(" ") < 0 && value != " ";
+            }, "No space Allowed");
+            $("#saveDepartMent").validate({
+                rules: {
+                    Code: {
+                        required: true,
+                        noSpace: true,
+                        minlength: 2,
+                        maxlength: 7
+                    },
+                    Name: {
+                        required: true
+                    }
+                }    
+            });
+        });
+    </script>
+</body>
+</html>

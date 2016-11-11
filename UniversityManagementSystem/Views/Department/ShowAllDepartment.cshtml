@@ -1,0 +1,40 @@
+﻿@using UniversityManagementSystem.Models
+@model UniversityManagementSystem.Models.Department
+@{
+    Layout = null;
+    List<Department> alist = ViewBag.alldepartment;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>ShowAllDepartment</title>
+</head>
+<body>
+<center>
+    <h1>2. View All Department</h1>
+    <h3>
+     <a href="/Home/Index">Go To Home Page</a>
+    </h3><hr/><br/>
+    <div>
+        <table border="1" >
+            <tr>
+                <th>Code</th>
+                <th>Name</th>
+            </tr>
+            @foreach (var list in alist)
+            {
+                <tr>
+                    <td>
+                        @list.Code
+                    </td>
+                    <td>@list.Name</td>
+                </tr>
+            }
+        </table>
+    </div>
+</center>
+</body>
+</html>

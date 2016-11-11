@@ -1,0 +1,123 @@
+﻿@using UniversityManagementSystem.Models
+
+@{
+    Layout = null;
+    List<Designation> designations = ViewBag.designations;
+    List<Department> departments = ViewBag.departments;
+    string msg = ViewBag.message;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>SaveTeacher</title>
+    <style>
+        label.error {
+            color: red;
+        }
+    </style>
+</head>
+<body>
+    <center>
+        <h1>4. Save Teacher</h1>
+        <h3>
+            <a href="/Home/Index">Go To Home Page</a>
+        </h3><hr /><br />
+        <form id="saveTeacher" method="POST">
+            <table border="1">
+                <tr>
+                    <th>Name</th>
+                    <td><input type="text" id="Name" name="Name" /></td>
+                </tr>
+                <tr>
+                    <th>Address</th>
+                    <td><textarea rows="4" cols="22" id="Address" name="Address"></textarea></td>
+                </tr>
+                <tr>
+                    <th>Email</th>
+                    <td>
+                        <input type="email" id="Email" name="Email" />
+                    </td>
+                </tr>
+                <tr>
+                    <th>Contact No</th>
+                    <td><input type="text" id="ContactNo" name="ContactNo" /></td>
+                </tr>
+                <tr>
+                    <th>Designation</th>
+                    <td>
+                        <select name="DesignationId" id="DesignationId">
+                            <option value="">Select----</option>
+                            @foreach (var designationlist in designations)
+                            {
+                                <option value="@designationlist.Id">@designationlist.Name</option>
+                            }
+                        </select>
+                    </td>
+
+                </tr>
+                <tr>
+                    <th>Department</th>
+                    <td>
+                        <select name="DepartmentId" id="DepartmentId">
+                            <option value="">Select----</option>
+                            @foreach (var departmentlist in departments)
+                            {
+                                <option value="@departmentlist.Id">@departmentlist.Name</option>
+                            }
+                        </select>
+                    </td>
+                </tr>
+                <tr>
+                    <th>Credit to be Taken</th>
+                    <td><input type="text" id="CreditTobeTaken" name="CreditTobeTaken" /></td>
+                </tr>
+                <tr>
+                    <th></th>
+                    <td> <input type="submit" value="Save" /></td>
+                </tr>
+            </table>
+            @msg
+        </form>
+    </center>
+    <script src="~/Scripts/jquery-1.10.2.min.js"></script>
+    <script src="~/Scripts/jquery.validate.min.js"></script>
+    <script>
+        $("#saveTeacher").validate({
+            rules: {
+                Name: "required",
+                Address: "required",
+                Email: {
+                    required: true,
+                    email: true
+                },
+                ContactNo: "required",
+                DesignationId: {
+                    required: true
+                },
+                DepartmentId: {
+                    required: true
+                },
+                CreditTobeTaken: {
+                    required: true,
+                    min: 1
+                }
+            },
+            messages: {
+                Name: "Please Provide Your Name",
+                Address: "Please Provide a short Description",
+                Email: "Please Provide Your Email",
+                ContactNo: "Please Provide Your Contact No",
+                DesignationId: "Please Select a Designation",
+                DepartmentId: "Please Select a Department",
+                CreditTobeTaken: {
+                    required:"Please Provide Credit, How Much You Want?",
+                    min: "Value must be greater than 0"
+                }
+            }
+        });
+    </script>
+</body>
+</html>

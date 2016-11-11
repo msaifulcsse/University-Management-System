@@ -1,0 +1,112 @@
+﻿@using UniversityManagementSystem.Models
+
+@{
+    Layout = null;
+    List<Department> departments = ViewBag.departments;
+    List<Semester> semesters = ViewBag.semesters;
+    string msg = ViewBag.message;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>SaveCourse</title>
+    <style>
+        label.error {
+            color: red;
+        }
+    </style>
+</head>
+<body>
+    <center>
+        <h1>3. Save Course</h1>
+        <h3>
+            <a href="/Home/Index">Go To Home Page</a>
+        </h3><hr /><br />
+        <div>
+            <form id="saveCourse" method="POST">
+                <table border="1">
+                    <tr>
+                        <th>Code</th>
+                        <td><input type="text" id="Code" name="Code" /></td>
+                    </tr>
+                    <tr>
+                        <th>Name</th>
+                        <td><input type="text" id="Name" name="Name" /></td>
+                    </tr>
+                    <tr>
+                        <th>Credit</th>
+                        <td><input type="text" id="Credit" name="Credit" /></td>
+                    </tr>
+                    <tr>
+                        <th>Description</th>
+                        <td><textarea rows="4" cols="22" id="" name="Description"></textarea></td>
+                    </tr>
+                    <tr>
+                        <th>Department</th>
+                        <td>
+                            <select name="DepartmentId" id="DepartmentId">
+                                <option value="">Select----</option>
+                                @foreach (var departmentlist in departments)
+                                {
+                                    <option value="@departmentlist.Id">@departmentlist.Name</option>
+                                }
+                            </select>
+                        </td>
+                    </tr>
+                    <tr>
+                        <th>Semester</th>
+                        <td>
+                            <select name="SemesterId" id="SemesterId">
+                                <option value="">Select------</option>
+                                @foreach (var semesterslist in semesters)
+                                {
+                                    <option value="@semesterslist.Id">@semesterslist.Name</option>
+                                }
+
+                            </select>
+                        </td>
+                    </tr>
+                    <tr>
+                        <th></th>
+                        <td><input type="submit" value="Save" /></td>
+                    </tr>
+                </table>
+                @msg
+            </form>
+        </div>
+    </center>
+    <script src="~/Scripts/jquery-1.10.2.min.js"></script>
+    <script src="~/Scripts/jquery.validate.min.js"></script>
+    <script>
+        $("#saveCourse").validate({
+            rules: {
+                Code: {
+                    required: true,
+                    minlength: 5
+                },
+                Name: "required",
+                Credit: {
+                    required: true,
+                    range: [.5, 5]
+                },
+                Description: "required",
+                DepartmentId: {
+                    required: true
+                },
+                SemesterId: {
+                    required: true
+                }
+            },
+                messages: {
+                    Name: "Please Provide Your Name",
+                    Description: "Please Provide a short Description",
+                    DepartmentId: "Please Select a Department",
+                    SemesterId: "Please Select a Semester"
+                }
+        });
+    </script>
+</body>
+</html>

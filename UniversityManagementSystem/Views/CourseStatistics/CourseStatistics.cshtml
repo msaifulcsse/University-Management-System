@@ -1,0 +1,63 @@
+﻿@using UniversityManagementSystem.Models
+
+@{
+    Layout = null;
+    List<Department> departments = ViewBag.departments;
+    List<CourseStatistics> courseStatisticses = ViewBag.Coursestatistics;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Course Statistics</title>
+</head>
+<body>
+    <center>
+        <h1>6. Course Statistics</h1>
+        <h3>
+            <a href="/Home/Index">Go To Home Page</a>
+        </h3><hr /><br />
+        <div>
+            <table>
+                <tr>
+                    <th>Department</th>
+                    <td>
+                        <select name="DepartmentId">
+                            <option>Select------</option>
+                            @foreach (var departmentlist in departments)
+                            {
+                                <option value="@departmentlist.Id">@departmentlist.Code</option>
+                            }
+                        </select>
+
+                    </td>
+                </tr>
+            </table>
+            <h2>Course Information</h2>
+            <hr/>
+            <form method="POST">
+                <table>
+                    <tr>
+                        <th>Code</th>
+                        <th>Name/Title</th>
+                        <th>Semester</th>
+                        <th>Assign To</th>
+                    </tr>
+
+                    @foreach (var alist in courseStatisticses)
+                    {
+                        <tr>
+                            <td>@alist.CourseCode</td>
+                            <td>@alist.CourseName</td>
+                            <td>@alist.SemesterName</td>
+                            <td>@alist.TeacherName</td>
+                        </tr>
+                    }
+                </table>
+            </form>
+        </div>
+    </center>
+</body>
+</html>

@@ -1,0 +1,228 @@
+C:\Users\M SAIFUL ISLAM\Desktop\BITM-SEIP23\DotNet Codes\UniversityManagementSystem\UniversityManagementSystem\bin\roslyn\csc.exe
+C:\Users\M SAIFUL ISLAM\Desktop\BITM-SEIP23\DotNet Codes\UniversityManagementSystem\UniversityManagementSystem\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\M SAIFUL ISLAM\Desktop\BITM-SEIP23\DotNet Codes\UniversityManagementSystem\UniversityManagementSystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\M SAIFUL ISLAM\Desktop\BITM-SEIP23\DotNet Codes\UniversityManagementSystem\UniversityManagementSystem\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\M SAIFUL ISLAM\Desktop\BITM-SEIP23\DotNet Codes\UniversityManagementSystem\UniversityManagementSystem\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\M SAIFUL ISLAM\Desktop\BITM-SEIP23\DotNet Codes\UniversityManagementSystem\UniversityManagementSystem\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\M SAIFUL ISLAM\Desktop\BITM-SEIP23\DotNet Codes\UniversityManagementSystem\UniversityManagementSystem\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\M SAIFUL ISLAM\Desktop\BITM-SEIP23\DotNet Codes\UniversityManagementSystem\UniversityManagementSystem\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\M SAIFUL ISLAM\Desktop\BITM-SEIP23\DotNet Codes\UniversityManagementSystem\UniversityManagementSystem\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\M SAIFUL ISLAM\Desktop\BITM-SEIP23\DotNet Codes\UniversityManagementSystem\UniversityManagementSystem\bin\roslyn\vbc.exe
+C:\Users\M SAIFUL ISLAM\Desktop\BITM-SEIP23\DotNet Codes\UniversityManagementSystem\UniversityManagementSystem\bin\roslyn\VBCSCompiler.exe
+C:\Users\M SAIFUL ISLAM\Desktop\BITM-SEIP23\DotNet Codes\UniversityManagementSystem\UniversityManagementSystem\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\M SAIFUL ISLAM\Desktop\BITM-SEIP23\DotNet Codes\UniversityManagementSystem\UniversityManagementSystem\bin\UniversityManagementSystem.dll.config
+C:\Users\M SAIFUL ISLAM\Desktop\BITM-SEIP23\DotNet Codes\UniversityManagementSystem\UniversityManagementSystem\bin\UniversityManagementSystem.dll
+C:\Users\M SAIFUL ISLAM\Desktop\BITM-SEIP23\DotNet Codes\UniversityManagementSystem\UniversityManagementSystem\bin\UniversityManagementSystem.pdb
+C:\Users\M SAIFUL ISLAM\Desktop\BITM-SEIP23\DotNet Codes\UniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\M SAIFUL ISLAM\Desktop\BITM-SEIP23\DotNet Codes\UniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\M SAIFUL ISLAM\Desktop\BITM-SEIP23\DotNet Codes\UniversityManagementSystem\UniversityManagementSystem\bin\System.Web.Helpers.dll
+C:\Users\M SAIFUL ISLAM\Desktop\BITM-SEIP23\DotNet Codes\UniversityManagementSystem\UniversityManagementSystem\bin\System.Web.Mvc.dll
+C:\Users\M SAIFUL ISLAM\Desktop\BITM-SEIP23\DotNet Codes\UniversityManagementSystem\UniversityManagementSystem\bin\System.Web.Razor.dll
+C:\Users\M SAIFUL ISLAM\Desktop\BITM-SEIP23\DotNet Codes\UniversityManagementSystem\UniversityManagementSystem\bin\System.Web.Webpages.Deployment.dll
+C:\Users\M SAIFUL ISLAM\Desktop\BITM-SEIP23\DotNet Codes\UniversityManagementSystem\UniversityManagementSystem\bin\System.Web.Webpages.dll
+C:\Users\M SAIFUL ISLAM\Desktop\BITM-SEIP23\DotNet Codes\UniversityManagementSystem\UniversityManagementSystem\bin\System.Web.Webpages.Razor.dll
+C:\Users\M SAIFUL ISLAM\Desktop\BITM-SEIP23\DotNet Codes\UniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\M SAIFUL ISLAM\Desktop\BITM-SEIP23\DotNet Codes\UniversityManagementSystem\UniversityManagementSystem\bin\System.Web.Razor.xml
+C:\Users\M SAIFUL ISLAM\Desktop\BITM-SEIP23\DotNet Codes\UniversityManagementSystem\UniversityManagementSystem\bin\System.Web.Webpages.xml
+C:\Users\M SAIFUL ISLAM\Desktop\BITM-SEIP23\DotNet Codes\UniversityManagementSystem\UniversityManagementSystem\bin\System.Web.Webpages.Deployment.xml
+C:\Users\M SAIFUL ISLAM\Desktop\BITM-SEIP23\DotNet Codes\UniversityManagementSystem\UniversityManagementSystem\bin\System.Web.Webpages.Razor.xml
+C:\Users\M SAIFUL ISLAM\Desktop\BITM-SEIP23\DotNet Codes\UniversityManagementSystem\UniversityManagementSystem\bin\System.Web.Helpers.xml
+C:\Users\M SAIFUL ISLAM\Desktop\BITM-SEIP23\DotNet Codes\UniversityManagementSystem\UniversityManagementSystem\bin\System.Web.Mvc.xml
+C:\Users\M SAIFUL ISLAM\Desktop\BITM-SEIP23\DotNet Codes\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.csprojResolveAssemblyReference.cache
+C:\Users\M SAIFUL ISLAM\Desktop\BITM-SEIP23\DotNet Codes\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.dll
+C:\Users\M SAIFUL ISLAM\Desktop\BITM-SEIP23\DotNet Codes\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.pdb
+C:\Users\Web App Develop .Net\Desktop\UniversityManagementSystem\UniversityManagementSystem\bin\roslyn\csc.exe
+C:\Users\Web App Develop .Net\Desktop\UniversityManagementSystem\UniversityManagementSystem\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Web App Develop .Net\Desktop\UniversityManagementSystem\UniversityManagementSystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Web App Develop .Net\Desktop\UniversityManagementSystem\UniversityManagementSystem\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Web App Develop .Net\Desktop\UniversityManagementSystem\UniversityManagementSystem\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Web App Develop .Net\Desktop\UniversityManagementSystem\UniversityManagementSystem\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Web App Develop .Net\Desktop\UniversityManagementSystem\UniversityManagementSystem\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Web App Develop .Net\Desktop\UniversityManagementSystem\UniversityManagementSystem\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Web App Develop .Net\Desktop\UniversityManagementSystem\UniversityManagementSystem\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Web App Develop .Net\Desktop\UniversityManagementSystem\UniversityManagementSystem\bin\roslyn\vbc.exe
+C:\Users\Web App Develop .Net\Desktop\UniversityManagementSystem\UniversityManagementSystem\bin\roslyn\VBCSCompiler.exe
+C:\Users\Web App Develop .Net\Desktop\UniversityManagementSystem\UniversityManagementSystem\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Web App Develop .Net\Desktop\UniversityManagementSystem\UniversityManagementSystem\bin\UniversityManagementSystem.dll.config
+C:\Users\Web App Develop .Net\Desktop\UniversityManagementSystem\UniversityManagementSystem\bin\UniversityManagementSystem.dll
+C:\Users\Web App Develop .Net\Desktop\UniversityManagementSystem\UniversityManagementSystem\bin\UniversityManagementSystem.pdb
+C:\Users\Web App Develop .Net\Desktop\UniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Web App Develop .Net\Desktop\UniversityManagementSystem\UniversityManagementSystem\bin\System.Web.Helpers.dll
+C:\Users\Web App Develop .Net\Desktop\UniversityManagementSystem\UniversityManagementSystem\bin\System.Web.Mvc.dll
+C:\Users\Web App Develop .Net\Desktop\UniversityManagementSystem\UniversityManagementSystem\bin\System.Web.Razor.dll
+C:\Users\Web App Develop .Net\Desktop\UniversityManagementSystem\UniversityManagementSystem\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Web App Develop .Net\Desktop\UniversityManagementSystem\UniversityManagementSystem\bin\System.Web.Webpages.dll
+C:\Users\Web App Develop .Net\Desktop\UniversityManagementSystem\UniversityManagementSystem\bin\System.Web.Webpages.Razor.dll
+C:\Users\Web App Develop .Net\Desktop\UniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Web App Develop .Net\Desktop\UniversityManagementSystem\UniversityManagementSystem\bin\System.Web.Razor.xml
+C:\Users\Web App Develop .Net\Desktop\UniversityManagementSystem\UniversityManagementSystem\bin\System.Web.Webpages.xml
+C:\Users\Web App Develop .Net\Desktop\UniversityManagementSystem\UniversityManagementSystem\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Web App Develop .Net\Desktop\UniversityManagementSystem\UniversityManagementSystem\bin\System.Web.Webpages.Razor.xml
+C:\Users\Web App Develop .Net\Desktop\UniversityManagementSystem\UniversityManagementSystem\bin\System.Web.Helpers.xml
+C:\Users\Web App Develop .Net\Desktop\UniversityManagementSystem\UniversityManagementSystem\bin\System.Web.Mvc.xml
+C:\Users\Web App Develop .Net\Desktop\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.csprojResolveAssemblyReference.cache
+C:\Users\Web App Develop .Net\Desktop\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.dll
+C:\Users\Web App Develop .Net\Desktop\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.pdb
+C:\Users\M SAIFUL ISLAM\Desktop\BITM-SEIP23\Final Update\UniversityManagementSystem\UniversityManagementSystem\bin\roslyn\csc.exe
+C:\Users\M SAIFUL ISLAM\Desktop\BITM-SEIP23\Final Update\UniversityManagementSystem\UniversityManagementSystem\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\M SAIFUL ISLAM\Desktop\BITM-SEIP23\Final Update\UniversityManagementSystem\UniversityManagementSystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\M SAIFUL ISLAM\Desktop\BITM-SEIP23\Final Update\UniversityManagementSystem\UniversityManagementSystem\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\M SAIFUL ISLAM\Desktop\BITM-SEIP23\Final Update\UniversityManagementSystem\UniversityManagementSystem\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\M SAIFUL ISLAM\Desktop\BITM-SEIP23\Final Update\UniversityManagementSystem\UniversityManagementSystem\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\M SAIFUL ISLAM\Desktop\BITM-SEIP23\Final Update\UniversityManagementSystem\UniversityManagementSystem\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\M SAIFUL ISLAM\Desktop\BITM-SEIP23\Final Update\UniversityManagementSystem\UniversityManagementSystem\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\M SAIFUL ISLAM\Desktop\BITM-SEIP23\Final Update\UniversityManagementSystem\UniversityManagementSystem\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\M SAIFUL ISLAM\Desktop\BITM-SEIP23\Final Update\UniversityManagementSystem\UniversityManagementSystem\bin\roslyn\vbc.exe
+C:\Users\M SAIFUL ISLAM\Desktop\BITM-SEIP23\Final Update\UniversityManagementSystem\UniversityManagementSystem\bin\roslyn\VBCSCompiler.exe
+C:\Users\M SAIFUL ISLAM\Desktop\BITM-SEIP23\Final Update\UniversityManagementSystem\UniversityManagementSystem\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\M SAIFUL ISLAM\Desktop\BITM-SEIP23\Final Update\UniversityManagementSystem\UniversityManagementSystem\bin\UniversityManagementSystem.dll.config
+C:\Users\M SAIFUL ISLAM\Desktop\BITM-SEIP23\Final Update\UniversityManagementSystem\UniversityManagementSystem\bin\UniversityManagementSystem.dll
+C:\Users\M SAIFUL ISLAM\Desktop\BITM-SEIP23\Final Update\UniversityManagementSystem\UniversityManagementSystem\bin\UniversityManagementSystem.pdb
+C:\Users\M SAIFUL ISLAM\Desktop\BITM-SEIP23\Final Update\UniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\M SAIFUL ISLAM\Desktop\BITM-SEIP23\Final Update\UniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\M SAIFUL ISLAM\Desktop\BITM-SEIP23\Final Update\UniversityManagementSystem\UniversityManagementSystem\bin\System.Web.Helpers.dll
+C:\Users\M SAIFUL ISLAM\Desktop\BITM-SEIP23\Final Update\UniversityManagementSystem\UniversityManagementSystem\bin\System.Web.Mvc.dll
+C:\Users\M SAIFUL ISLAM\Desktop\BITM-SEIP23\Final Update\UniversityManagementSystem\UniversityManagementSystem\bin\System.Web.Razor.dll
+C:\Users\M SAIFUL ISLAM\Desktop\BITM-SEIP23\Final Update\UniversityManagementSystem\UniversityManagementSystem\bin\System.Web.Webpages.Deployment.dll
+C:\Users\M SAIFUL ISLAM\Desktop\BITM-SEIP23\Final Update\UniversityManagementSystem\UniversityManagementSystem\bin\System.Web.Webpages.dll
+C:\Users\M SAIFUL ISLAM\Desktop\BITM-SEIP23\Final Update\UniversityManagementSystem\UniversityManagementSystem\bin\System.Web.Webpages.Razor.dll
+C:\Users\M SAIFUL ISLAM\Desktop\BITM-SEIP23\Final Update\UniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\M SAIFUL ISLAM\Desktop\BITM-SEIP23\Final Update\UniversityManagementSystem\UniversityManagementSystem\bin\System.Web.Razor.xml
+C:\Users\M SAIFUL ISLAM\Desktop\BITM-SEIP23\Final Update\UniversityManagementSystem\UniversityManagementSystem\bin\System.Web.Webpages.xml
+C:\Users\M SAIFUL ISLAM\Desktop\BITM-SEIP23\Final Update\UniversityManagementSystem\UniversityManagementSystem\bin\System.Web.Webpages.Deployment.xml
+C:\Users\M SAIFUL ISLAM\Desktop\BITM-SEIP23\Final Update\UniversityManagementSystem\UniversityManagementSystem\bin\System.Web.Webpages.Razor.xml
+C:\Users\M SAIFUL ISLAM\Desktop\BITM-SEIP23\Final Update\UniversityManagementSystem\UniversityManagementSystem\bin\System.Web.Helpers.xml
+C:\Users\M SAIFUL ISLAM\Desktop\BITM-SEIP23\Final Update\UniversityManagementSystem\UniversityManagementSystem\bin\System.Web.Mvc.xml
+C:\Users\M SAIFUL ISLAM\Desktop\BITM-SEIP23\Final Update\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.dll
+C:\Users\M SAIFUL ISLAM\Desktop\BITM-SEIP23\Final Update\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.pdb
+C:\Users\M SAIFUL ISLAM\Desktop\BITM-SEIP23\Final Update\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.csprojResolveAssemblyReference.cache
+C:\Users\fahim\Desktop\UniversityManagementSystem\UniversityManagementSystem\bin\roslyn\csc.exe
+C:\Users\fahim\Desktop\UniversityManagementSystem\UniversityManagementSystem\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\fahim\Desktop\UniversityManagementSystem\UniversityManagementSystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\fahim\Desktop\UniversityManagementSystem\UniversityManagementSystem\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\fahim\Desktop\UniversityManagementSystem\UniversityManagementSystem\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\fahim\Desktop\UniversityManagementSystem\UniversityManagementSystem\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\fahim\Desktop\UniversityManagementSystem\UniversityManagementSystem\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\fahim\Desktop\UniversityManagementSystem\UniversityManagementSystem\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\fahim\Desktop\UniversityManagementSystem\UniversityManagementSystem\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\fahim\Desktop\UniversityManagementSystem\UniversityManagementSystem\bin\roslyn\vbc.exe
+C:\Users\fahim\Desktop\UniversityManagementSystem\UniversityManagementSystem\bin\roslyn\VBCSCompiler.exe
+C:\Users\fahim\Desktop\UniversityManagementSystem\UniversityManagementSystem\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\fahim\Desktop\UniversityManagementSystem\UniversityManagementSystem\bin\UniversityManagementSystem.dll.config
+C:\Users\fahim\Desktop\UniversityManagementSystem\UniversityManagementSystem\bin\UniversityManagementSystem.dll
+C:\Users\fahim\Desktop\UniversityManagementSystem\UniversityManagementSystem\bin\UniversityManagementSystem.pdb
+C:\Users\fahim\Desktop\UniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\fahim\Desktop\UniversityManagementSystem\UniversityManagementSystem\bin\System.Web.Helpers.dll
+C:\Users\fahim\Desktop\UniversityManagementSystem\UniversityManagementSystem\bin\System.Web.Mvc.dll
+C:\Users\fahim\Desktop\UniversityManagementSystem\UniversityManagementSystem\bin\System.Web.Razor.dll
+C:\Users\fahim\Desktop\UniversityManagementSystem\UniversityManagementSystem\bin\System.Web.Webpages.Deployment.dll
+C:\Users\fahim\Desktop\UniversityManagementSystem\UniversityManagementSystem\bin\System.Web.Webpages.dll
+C:\Users\fahim\Desktop\UniversityManagementSystem\UniversityManagementSystem\bin\System.Web.Webpages.Razor.dll
+C:\Users\fahim\Desktop\UniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\fahim\Desktop\UniversityManagementSystem\UniversityManagementSystem\bin\System.Web.Razor.xml
+C:\Users\fahim\Desktop\UniversityManagementSystem\UniversityManagementSystem\bin\System.Web.Webpages.xml
+C:\Users\fahim\Desktop\UniversityManagementSystem\UniversityManagementSystem\bin\System.Web.Webpages.Deployment.xml
+C:\Users\fahim\Desktop\UniversityManagementSystem\UniversityManagementSystem\bin\System.Web.Webpages.Razor.xml
+C:\Users\fahim\Desktop\UniversityManagementSystem\UniversityManagementSystem\bin\System.Web.Helpers.xml
+C:\Users\fahim\Desktop\UniversityManagementSystem\UniversityManagementSystem\bin\System.Web.Mvc.xml
+C:\Users\fahim\Desktop\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.csprojResolveAssemblyReference.cache
+C:\Users\fahim\Desktop\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.dll
+C:\Users\fahim\Desktop\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.pdb
+C:\Users\M SAIFUL ISLAM\Desktop\UniversityManagementSystem\UniversityManagementSystem\bin\roslyn\csc.exe
+C:\Users\M SAIFUL ISLAM\Desktop\UniversityManagementSystem\UniversityManagementSystem\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\M SAIFUL ISLAM\Desktop\UniversityManagementSystem\UniversityManagementSystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\M SAIFUL ISLAM\Desktop\UniversityManagementSystem\UniversityManagementSystem\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\M SAIFUL ISLAM\Desktop\UniversityManagementSystem\UniversityManagementSystem\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\M SAIFUL ISLAM\Desktop\UniversityManagementSystem\UniversityManagementSystem\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\M SAIFUL ISLAM\Desktop\UniversityManagementSystem\UniversityManagementSystem\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\M SAIFUL ISLAM\Desktop\UniversityManagementSystem\UniversityManagementSystem\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\M SAIFUL ISLAM\Desktop\UniversityManagementSystem\UniversityManagementSystem\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\M SAIFUL ISLAM\Desktop\UniversityManagementSystem\UniversityManagementSystem\bin\roslyn\vbc.exe
+C:\Users\M SAIFUL ISLAM\Desktop\UniversityManagementSystem\UniversityManagementSystem\bin\roslyn\VBCSCompiler.exe
+C:\Users\M SAIFUL ISLAM\Desktop\UniversityManagementSystem\UniversityManagementSystem\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\M SAIFUL ISLAM\Desktop\UniversityManagementSystem\UniversityManagementSystem\bin\UniversityManagementSystem.dll.config
+C:\Users\M SAIFUL ISLAM\Desktop\UniversityManagementSystem\UniversityManagementSystem\bin\UniversityManagementSystem.dll
+C:\Users\M SAIFUL ISLAM\Desktop\UniversityManagementSystem\UniversityManagementSystem\bin\UniversityManagementSystem.pdb
+C:\Users\M SAIFUL ISLAM\Desktop\UniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\M SAIFUL ISLAM\Desktop\UniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\M SAIFUL ISLAM\Desktop\UniversityManagementSystem\UniversityManagementSystem\bin\System.Web.Helpers.dll
+C:\Users\M SAIFUL ISLAM\Desktop\UniversityManagementSystem\UniversityManagementSystem\bin\System.Web.Mvc.dll
+C:\Users\M SAIFUL ISLAM\Desktop\UniversityManagementSystem\UniversityManagementSystem\bin\System.Web.Razor.dll
+C:\Users\M SAIFUL ISLAM\Desktop\UniversityManagementSystem\UniversityManagementSystem\bin\System.Web.Webpages.Deployment.dll
+C:\Users\M SAIFUL ISLAM\Desktop\UniversityManagementSystem\UniversityManagementSystem\bin\System.Web.Webpages.dll
+C:\Users\M SAIFUL ISLAM\Desktop\UniversityManagementSystem\UniversityManagementSystem\bin\System.Web.Webpages.Razor.dll
+C:\Users\M SAIFUL ISLAM\Desktop\UniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\M SAIFUL ISLAM\Desktop\UniversityManagementSystem\UniversityManagementSystem\bin\System.Web.Razor.xml
+C:\Users\M SAIFUL ISLAM\Desktop\UniversityManagementSystem\UniversityManagementSystem\bin\System.Web.Webpages.xml
+C:\Users\M SAIFUL ISLAM\Desktop\UniversityManagementSystem\UniversityManagementSystem\bin\System.Web.Webpages.Deployment.xml
+C:\Users\M SAIFUL ISLAM\Desktop\UniversityManagementSystem\UniversityManagementSystem\bin\System.Web.Webpages.Razor.xml
+C:\Users\M SAIFUL ISLAM\Desktop\UniversityManagementSystem\UniversityManagementSystem\bin\System.Web.Helpers.xml
+C:\Users\M SAIFUL ISLAM\Desktop\UniversityManagementSystem\UniversityManagementSystem\bin\System.Web.Mvc.xml
+C:\Users\M SAIFUL ISLAM\Desktop\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.csprojResolveAssemblyReference.cache
+C:\Users\M SAIFUL ISLAM\Desktop\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.dll
+C:\Users\M SAIFUL ISLAM\Desktop\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.pdb
+C:\Users\Joya\Desktop\UniversityManagementSystem\UniversityManagementSystem\bin\roslyn\csc.exe
+C:\Users\Joya\Desktop\UniversityManagementSystem\UniversityManagementSystem\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Joya\Desktop\UniversityManagementSystem\UniversityManagementSystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Joya\Desktop\UniversityManagementSystem\UniversityManagementSystem\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Joya\Desktop\UniversityManagementSystem\UniversityManagementSystem\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Joya\Desktop\UniversityManagementSystem\UniversityManagementSystem\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Joya\Desktop\UniversityManagementSystem\UniversityManagementSystem\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Joya\Desktop\UniversityManagementSystem\UniversityManagementSystem\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Joya\Desktop\UniversityManagementSystem\UniversityManagementSystem\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Joya\Desktop\UniversityManagementSystem\UniversityManagementSystem\bin\roslyn\vbc.exe
+C:\Users\Joya\Desktop\UniversityManagementSystem\UniversityManagementSystem\bin\roslyn\VBCSCompiler.exe
+C:\Users\Joya\Desktop\UniversityManagementSystem\UniversityManagementSystem\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Joya\Desktop\UniversityManagementSystem\UniversityManagementSystem\bin\UniversityManagementSystem.dll.config
+C:\Users\Joya\Desktop\UniversityManagementSystem\UniversityManagementSystem\bin\UniversityManagementSystem.dll
+C:\Users\Joya\Desktop\UniversityManagementSystem\UniversityManagementSystem\bin\UniversityManagementSystem.pdb
+C:\Users\Joya\Desktop\UniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Joya\Desktop\UniversityManagementSystem\UniversityManagementSystem\bin\System.Web.Helpers.dll
+C:\Users\Joya\Desktop\UniversityManagementSystem\UniversityManagementSystem\bin\System.Web.Mvc.dll
+C:\Users\Joya\Desktop\UniversityManagementSystem\UniversityManagementSystem\bin\System.Web.Razor.dll
+C:\Users\Joya\Desktop\UniversityManagementSystem\UniversityManagementSystem\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Joya\Desktop\UniversityManagementSystem\UniversityManagementSystem\bin\System.Web.Webpages.dll
+C:\Users\Joya\Desktop\UniversityManagementSystem\UniversityManagementSystem\bin\System.Web.Webpages.Razor.dll
+C:\Users\Joya\Desktop\UniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Joya\Desktop\UniversityManagementSystem\UniversityManagementSystem\bin\System.Web.Razor.xml
+C:\Users\Joya\Desktop\UniversityManagementSystem\UniversityManagementSystem\bin\System.Web.Webpages.xml
+C:\Users\Joya\Desktop\UniversityManagementSystem\UniversityManagementSystem\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Joya\Desktop\UniversityManagementSystem\UniversityManagementSystem\bin\System.Web.Webpages.Razor.xml
+C:\Users\Joya\Desktop\UniversityManagementSystem\UniversityManagementSystem\bin\System.Web.Helpers.xml
+C:\Users\Joya\Desktop\UniversityManagementSystem\UniversityManagementSystem\bin\System.Web.Mvc.xml
+C:\Users\Joya\Desktop\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.csprojResolveAssemblyReference.cache
+C:\Users\Joya\Desktop\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.dll
+C:\Users\Joya\Desktop\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.pdb
+C:\Users\M SAIFUL ISLAM\Desktop\BITM-SEIP23\UniversityManagementSystem\UniversityManagementSystem\bin\roslyn\csc.exe
+C:\Users\M SAIFUL ISLAM\Desktop\BITM-SEIP23\UniversityManagementSystem\UniversityManagementSystem\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\M SAIFUL ISLAM\Desktop\BITM-SEIP23\UniversityManagementSystem\UniversityManagementSystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\M SAIFUL ISLAM\Desktop\BITM-SEIP23\UniversityManagementSystem\UniversityManagementSystem\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\M SAIFUL ISLAM\Desktop\BITM-SEIP23\UniversityManagementSystem\UniversityManagementSystem\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\M SAIFUL ISLAM\Desktop\BITM-SEIP23\UniversityManagementSystem\UniversityManagementSystem\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\M SAIFUL ISLAM\Desktop\BITM-SEIP23\UniversityManagementSystem\UniversityManagementSystem\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\M SAIFUL ISLAM\Desktop\BITM-SEIP23\UniversityManagementSystem\UniversityManagementSystem\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\M SAIFUL ISLAM\Desktop\BITM-SEIP23\UniversityManagementSystem\UniversityManagementSystem\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\M SAIFUL ISLAM\Desktop\BITM-SEIP23\UniversityManagementSystem\UniversityManagementSystem\bin\roslyn\vbc.exe
+C:\Users\M SAIFUL ISLAM\Desktop\BITM-SEIP23\UniversityManagementSystem\UniversityManagementSystem\bin\roslyn\VBCSCompiler.exe
+C:\Users\M SAIFUL ISLAM\Desktop\BITM-SEIP23\UniversityManagementSystem\UniversityManagementSystem\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\M SAIFUL ISLAM\Desktop\BITM-SEIP23\UniversityManagementSystem\UniversityManagementSystem\bin\UniversityManagementSystem.dll.config
+C:\Users\M SAIFUL ISLAM\Desktop\BITM-SEIP23\UniversityManagementSystem\UniversityManagementSystem\bin\UniversityManagementSystem.dll
+C:\Users\M SAIFUL ISLAM\Desktop\BITM-SEIP23\UniversityManagementSystem\UniversityManagementSystem\bin\UniversityManagementSystem.pdb
+C:\Users\M SAIFUL ISLAM\Desktop\BITM-SEIP23\UniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\M SAIFUL ISLAM\Desktop\BITM-SEIP23\UniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\M SAIFUL ISLAM\Desktop\BITM-SEIP23\UniversityManagementSystem\UniversityManagementSystem\bin\System.Web.Helpers.dll
+C:\Users\M SAIFUL ISLAM\Desktop\BITM-SEIP23\UniversityManagementSystem\UniversityManagementSystem\bin\System.Web.Mvc.dll
+C:\Users\M SAIFUL ISLAM\Desktop\BITM-SEIP23\UniversityManagementSystem\UniversityManagementSystem\bin\System.Web.Razor.dll
+C:\Users\M SAIFUL ISLAM\Desktop\BITM-SEIP23\UniversityManagementSystem\UniversityManagementSystem\bin\System.Web.Webpages.Deployment.dll
+C:\Users\M SAIFUL ISLAM\Desktop\BITM-SEIP23\UniversityManagementSystem\UniversityManagementSystem\bin\System.Web.Webpages.dll
+C:\Users\M SAIFUL ISLAM\Desktop\BITM-SEIP23\UniversityManagementSystem\UniversityManagementSystem\bin\System.Web.Webpages.Razor.dll
+C:\Users\M SAIFUL ISLAM\Desktop\BITM-SEIP23\UniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\M SAIFUL ISLAM\Desktop\BITM-SEIP23\UniversityManagementSystem\UniversityManagementSystem\bin\System.Web.Razor.xml
+C:\Users\M SAIFUL ISLAM\Desktop\BITM-SEIP23\UniversityManagementSystem\UniversityManagementSystem\bin\System.Web.Webpages.xml
+C:\Users\M SAIFUL ISLAM\Desktop\BITM-SEIP23\UniversityManagementSystem\UniversityManagementSystem\bin\System.Web.Webpages.Deployment.xml
+C:\Users\M SAIFUL ISLAM\Desktop\BITM-SEIP23\UniversityManagementSystem\UniversityManagementSystem\bin\System.Web.Webpages.Razor.xml
+C:\Users\M SAIFUL ISLAM\Desktop\BITM-SEIP23\UniversityManagementSystem\UniversityManagementSystem\bin\System.Web.Helpers.xml
+C:\Users\M SAIFUL ISLAM\Desktop\BITM-SEIP23\UniversityManagementSystem\UniversityManagementSystem\bin\System.Web.Mvc.xml
+C:\Users\M SAIFUL ISLAM\Desktop\BITM-SEIP23\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.csprojResolveAssemblyReference.cache
+C:\Users\M SAIFUL ISLAM\Desktop\BITM-SEIP23\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.dll
+C:\Users\M SAIFUL ISLAM\Desktop\BITM-SEIP23\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.pdb
